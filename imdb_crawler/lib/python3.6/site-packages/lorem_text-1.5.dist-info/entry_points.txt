@@ -1,0 +1,3 @@
+[console_scripts]
+lorem_text = lorem_text.cli:main
+

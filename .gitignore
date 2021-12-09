@@ -1,1 +1,3 @@
 data
+venv
+imdb_crawler/imdb_crawler/movies.csv

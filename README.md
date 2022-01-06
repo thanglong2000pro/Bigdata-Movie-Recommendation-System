@@ -8,4 +8,5 @@
 - refe report in docs to setup and run 
 ## Flowchart
 <img src="result/flow_bigdata_imdb.png">
+
 ## Good luck!!!
